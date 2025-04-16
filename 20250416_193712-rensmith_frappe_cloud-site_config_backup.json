@@ -1,0 +1,23 @@
+{
+ "db_name": "_c5bc6bf4ebd7704e",
+ "db_password": "JKusiDRrjSd2Awqd",
+ "db_type": "mariadb",
+ "domains": [
+  "learning.scoutwired.org"
+ ],
+ "encryption_key": "HA7jFw2G3UwIvIWMi0VWltU2eSdsFRpBfkrmErnjMgI=",
+ "host_name": "https://learning.scoutwired.org",
+ "maintenance_mode": 0,
+ "plan_limit": {
+  "max_database_usage": 250,
+  "max_storage_usage": 2560
+ },
+ "rate_limit": {
+  "limit": 1800.0,
+  "window": 86400
+ },
+ "sk_email_delivery_service": "d503713b2020505bbacc215f0f6d180328c63e2e",
+ "user_type_doctype_limit": {
+  "employee_self_service": 40
+ }
+}
